@@ -1,6 +1,6 @@
 ### Hi, I'm Deepankar 👋
 
-I've worked as System Engineer. Seeking an opportunity to transition into software development. I am from india, currently living in Banglore, Karnataka, India.
+I've worked as System Engineer. Seeking an opportunity to transition into software development. I am from India, currently living in Banglore, Karnataka, India.
 
 - 🔭 I’m currently working on ChatBot.
 - 🌱 I’m currently learning SpringBoot & Angular.
