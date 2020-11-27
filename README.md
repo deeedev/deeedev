@@ -1,17 +1,16 @@
-### Hello, folks! 👋
+### Hi, I'm Deepankar 👋
 
-My name is Deepankar Tiwari and I've worked as System Engineer. Currenty I'm learning Full Stack Java Devlopment and looking for an opportunity to transition into software development. I am from india, currently living in Banglore, Karnataka.
-
-<!--
-**lemecode/lemecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+I've worked as System Engineer. Seeking an opportunity to transition into software development. I am from india, currently living in Banglore, Karnataka.
 
 - 🔭 I’m currently working on ChatBot using nodeJS.
 - 🌱 I’m currently learning SpringBoot & Angular.
-- 💬 Ask me about your next destination to visit in India.
-- 📫 You can find me on <img src="./twitter-fill.svg">
-    
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Java.
+- 📫 You can find me on <img src="./twitter-fill.svg"> [twitter][twitter] **|**    
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can stand upside down by the wall.
+
+
+[twitter]: https://twitter.com/Deeinmess
 
 ![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=java>&logoColor=white&color=2bbc8a)
 
