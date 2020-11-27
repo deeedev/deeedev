@@ -5,7 +5,7 @@ I've worked as System Engineer. Seeking an opportunity to transition into softwa
 - 🔭 I’m currently working on ChatBot using nodeJS.
 - 🌱 I’m currently learning SpringBoot & Angular.
 - 💬 Ask me about Java.
-- 📫 You can find me on  [twitter][<img src="./twitter-fill.svg">] **|**    
+- 📫 You can find me on <img src="./twitter-fill.svg"> **|**    
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can stand upside down by the wall.
 
