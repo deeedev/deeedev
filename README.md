@@ -8,7 +8,7 @@ My name is Deepankar Tiwari and I've worked as System Engineer. Currenty I'm lea
 - 🔭 I’m currently working on ChatBot using nodeJS.
 - 🌱 I’m currently learning SpringBoot & Angular.
 - 💬 Ask me about your next destination to visit in India.
-- 📫 You can find me on <a href="twitter.com/Deeinmess"<img src="./twitter-fill.svg">>
+- 📫 You can find me on <img src="./twitter-fill.svg" <a href="twitter.com/Deeinmess">>
     
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
