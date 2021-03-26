@@ -1,6 +1,6 @@
 ### Hi, I'm Deepankar 👋
 
-I've worked as System Engineer. Seeking an opportunity to transition into software development. I am from India, currently living in Banglore, Karnataka, India.
+A Java developer India, currently living in Banglore, Karnataka, India. Currently developing REST API's using Spring Boot and Playing with PostMan.
 
 - 🔭 I’m currently working on ChatBot.
 - 🌱 I’m currently learning SpringBoot & Angular.
