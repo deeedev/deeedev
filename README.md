@@ -1,6 +1,6 @@
 ### Hi, I'm Deepankar 👋
 
-A Java developer India, currently living in Banglore, Karnataka, India. Currently developing REST API's using Spring Boot and Playing with PostMan.
+A Java developer from India, living in Banglore, Karnataka, India. Currently developing REST API's using Spring Boot and Playing with PostMan.
 
 - 🔭 I’m currently working on ChatBot.
 - 🌱 I’m currently learning SpringBoot & Angular.
